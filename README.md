@@ -28,3 +28,10 @@ Buon lavoro e buon divertimento!
 ps: fate sempre prima il commit/push della consega sul README che poi aggiornate pian piano con i passaggi
 
 ppss: create all’interno del progetto due cartelle, una per “Mail” e una per “Dadi”
+
+## STEPS
+
+1. Tramite un campo d'input chiedo l'email all'utente e controllo se è valida;
+2. Inserisco anche un bottone nell'HTML che premendolo genererà 2 numeri random, uno per l'utente e uno per il computer;
+3. Con un confronto fra i numeri estratti scrivo il vincitore di chi ha estratto il numero maggiore;
+4. 
