@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main{
+  width: 100vw;
+  height: 100vh;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 80%;
+  max-width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  /* debug */
+  background-color: aqua;
+}
+
+input{
+  width: 200px;
+}
+
+.btn{
+  padding: 0 5px;
+}
