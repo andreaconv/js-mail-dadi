@@ -17,13 +17,15 @@ main{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
   width: 80%;
   max-width: 1200px;
   height: 100%;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 4rem;
+  color: white;
   /* debug */
-  background-color: aqua;
+  background-color: rgb(25, 94, 94);
 }
 
 input{
@@ -32,4 +34,10 @@ input{
 
 .btn{
   padding: 0 5px;
+}
+
+.dadi{
+  display: flex;
+  justify-content: space-evenly;
+  width: 60%;
 }
