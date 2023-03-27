@@ -36,6 +36,11 @@ input{
   padding: 0 5px;
 }
 
+#output{
+  text-align: center;
+  padding: 20px 0;
+}
+
 .dadi{
   display: flex;
   justify-content: space-evenly;
